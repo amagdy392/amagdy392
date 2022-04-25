@@ -1,4 +1,4 @@
-<div style="text-align:center"> ### Hi there, I'm Ahmed Magdy 👋</div>
+<div style="text-align : center;"> ### Hi there, I'm Ahmed Magdy 👋</div>
 
 🏫 I am a FrontEnd Web Development .<br>
 🔭 I’m currently working on Vodafone Egypt . <br>
